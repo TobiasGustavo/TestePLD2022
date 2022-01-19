@@ -56,7 +56,7 @@ Presidência da República -  R$ 3.066.621,15
 
 ##
 ### N (código) – Qual o nome do portador que mais realizou saques no período? Qual a soma dos saques realizada por ele? Qual o nome do Órgão desse portador? 
-RONISONCICLEY CONDE DA ROCHA - R$ 9.990,00  - Ministério da Economia - Fundação Instituto Brasileiro de Geografia e Estatística - UNIDADE ESTADUAL DO IBGE NO AMAZONAS
+Ronisoncicley Conde da Rocha - R$ 9.990,00  - Ministério da Economia - Fundação Instituto Brasileiro de Geografia e Estatística - UNIDADE ESTADUAL DO IBGE NO AMAZONAS
 
 ##
 ### O (código) – Qual o nome do favorecido que mais recebeu compras realizadas utilizando o CPGF? 
@@ -64,7 +64,7 @@ MERCADOPAGO.COM REPRESENTAÇÕES LTDA.
 
 ##
 ### P - Descreva qual a abordagem utilizada para desenvolver o código para os ítens de K a O.
-FILTROS DE BUSCA, DOWNLOADS, GRÁFICOS E CÁLCULOS. 
+Filtros de Busca, Downloads, Gráficos e Cálculos.
 
 
 
